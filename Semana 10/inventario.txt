@@ -1,0 +1,24 @@
+1,Botones Normales,Accesorio,Yenox,185,1.5
+2,Botones Led,Accesorio,Taiwan,240,2.2
+3,Palancas Arcade,Accesorio,Yenox,42,12.75
+4,Fichero ,Accesorio,Huanyu,25,32.0
+5,Fichero Multimonedas,Accesorio,Huanyu,21,45.0
+6,Mainboard ,Juego,AMD,8,125.0
+7,Monitor ,Juego,LG,5,80.0
+8,Conector Jamma,Accesorio,China,6,12.0
+9,Play Station I,Consola,SNK,22,75.0
+10,Play Stations II,Consola,SNK,17,85.0
+11,Play Stations III,Consola,SNK,12,90.0
+12,X Box,Consola,Sony,9,150.0
+13,Tarjeta Pikachu,Juego,Taiwan,11,125.0
+14,Motor Hopper,Accesorio,Taiwan,26,70.0
+15,Acrilico ,Accesorio,Grafica,30,18.0
+16,Cableado Botoneras,Juego,Chin hua,55,6.0
+17,Cableado Tierra,Juego,Chin hua,33,4.0
+18,Seguros Chapas,Accesorio,Viro,19,8.0
+19,Cajoneras Video,Juego,Campeter,5,130.0
+20,Cajonera Pinball,Juego,Campeter,7,110.0
+21,Cajonera MiniTrag,Juego,Campeter,8,90.0
+22,Maquina Arcade,Juego,DRVL,4,370.0
+23,Serigrafia,Accesorio,DRVL,16,25.0
+24,Maq. Completa,Juego,DRVL,5,330.0
